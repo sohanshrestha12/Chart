@@ -9,3 +9,5 @@ This project visualizes the sales data of laptops over a 7-day period using Reac
 - **Bar Chart Option**: Alternate visualization of sales data with bar charts.
 
 ### Screenshots
+
+![Screenshot 2024-12-25 123906](https://github.com/user-attachments/assets/c97db6b2-7b3f-47a2-92cf-8ea7417c482b)
